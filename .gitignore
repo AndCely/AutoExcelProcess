@@ -20,3 +20,7 @@ ENV/
 *.tmp
 *.log
 .DS_Store
+
+# Archivos excel
+src/excel/template/plantilla_transacciones(3).xlsx
+src/excel/template/plantilla_transacciones(2).xlsx
