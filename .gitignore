@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Archivos de configuración local
+*.ini
+.env
+
+# Archivos temporales
+*.tmp
+*.log
+.DS_Store
